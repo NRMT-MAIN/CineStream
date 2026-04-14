@@ -23,6 +23,8 @@ public class Video {
 
     private String contentType ;
 
+    private String videoPath ;
+
 //    @ManyToOne
 //    private Course course ;
 }
